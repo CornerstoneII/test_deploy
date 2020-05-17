@@ -6,4 +6,5 @@ Testing the CircleCI Install
 Checking on the local remote
 Another new line for testing
 Final github test
+One Final github test
 Adding a line for heroku push test.
